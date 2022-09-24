@@ -16,4 +16,4 @@ Deployment can be on any web server or even local file system
 
 ### Testing
 
-For tree
+For tree testing
